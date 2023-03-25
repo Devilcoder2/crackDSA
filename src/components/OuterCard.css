@@ -1,0 +1,7 @@
+.outer-box{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
